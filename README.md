@@ -1,2 +1,2 @@
 # AIR-QUALITY-PREDICTION
-Based on a CQQMS present in Talcher cold mines in Odissa
+Based on a CAAQMS present in Talcher cold mines in Odissa
